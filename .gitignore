@@ -1,0 +1,9 @@
+.venv
+Data.xlsx
+Data(1).xlsx
+runhand.xlsx
+~$Data.xlsx
+~$Data(1).xlsx
+~$runhand.xlsx
+requirements.txt
+/img
